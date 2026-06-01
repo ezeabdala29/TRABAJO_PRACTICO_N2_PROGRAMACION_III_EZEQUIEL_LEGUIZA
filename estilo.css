@@ -1,0 +1,85 @@
+body {
+    background-color: #121212;
+    color: white;
+    font-family: Arial;
+}
+
+h2 {
+    color: #bb86fc;
+    margin: 0 0 14px 0;
+    padding-bottom: 8px;
+    border-bottom: 1px solid #2a2a2a;
+}
+
+.navbar {
+    background-color: #1a1a1a;
+    border-bottom: 2px solid #bb86fc;
+    padding: 12px 20px;
+}
+
+nav a {
+    color: #ccc;
+    margin: 0 4px;
+    text-decoration: none;
+    font-size: 14px;
+    padding: 4px 10px;
+    border-radius: 4px;
+}
+
+nav a:hover {
+    background-color: #2a2a2a;
+    color: #bb86fc;
+}
+
+.contenedor {
+    margin: 20px;
+}
+
+.caja {
+    border: 1px solid #3a3a3a;
+    border-radius: 6px;
+    padding: 16px;
+}
+
+.tarjeta {
+    background-color: #1f1f1f;
+    border: 1px solid #333;
+    padding: 10px;
+    margin: 6px;
+    width: 180px;
+    display: inline-block;
+    cursor: pointer;
+    font-size: 13px;
+}
+
+.tarjeta:hover {
+    border-color: #bb86fc;
+}
+
+.seleccionada {
+    background-color: #2a1f3d;
+    border-color: #bb86fc;
+}
+
+button {
+    background-color: #2a2a2a;
+    color: white;
+    border: 1px solid #444;
+    padding: 7px 14px;
+    margin: 4px;
+    cursor: pointer;
+    border-radius: 4px;
+    font-size: 13px;
+}
+
+button:hover {
+    background-color: #bb86fc;
+    color: #121212;
+    border-color: #bb86fc;
+}
+
+#info {
+    color: #bb86fc;
+    margin: 10px 0;
+    font-size: 13px;
+}
