@@ -3,7 +3,7 @@ let items = [
     { titulo: "Minecraft", descripcion: "Videojuego de construccion" },
     { titulo: "Pizza", descripcion: "Mi comida favorita" },
     { titulo: "Patagonia", descripcion: "Lugar para visitar" },
-    { titulo: "Gravity Falls", descripcion: "Serie animada" }
+    { titulo: "Gravity Fall", descripcion: "Serie animada" }
 ]
 
 let grid = document.getElementById("gridDestacados")
